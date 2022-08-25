@@ -1,0 +1,69 @@
+.MS{
+    text-align: center; 
+    padding: 20px;
+}
+
+#MSDIV{
+    background-color: rgb(153, 27, 30);
+    border-radius: 30px;
+}
+
+.Serv{
+    text-align: center;
+    padding: 20px;
+}
+
+#ServiceDIV{
+    background-color: rgb(255, 199, 44);
+    border-radius: 30px;
+}
+
+#navli {
+    display: flex;
+    padding: 0;
+    justify-content: space-evenly;
+}
+
+#navli li{  
+    text-decoration: none;
+    list-style: none;
+}
+
+#navli li a{
+    text-decoration: none;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+#navbar{
+    background-color:rgb(0, 0, 0);
+    border-radius: 25px;
+    padding: 5px;
+}
+
+#UploadDoc{
+    text-align: left;
+    background-color: rgb(153, 27, 30);
+    border-radius: 25px;
+    padding: 30px;
+}
+
+#uploadtitle{
+    text-align: center;
+    background-color: rgb(255, 199, 44);
+    padding: 8px;
+    border-radius: 8px;
+}
+
+#uploadflex{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.login{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
